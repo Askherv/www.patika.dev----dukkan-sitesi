@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #009FBD;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+    font-size: 60px;
+}
+
+ul{
+    text-align: center;
+    margin-right: 20px;
+}
+
+li{
+    display: inline-block;
+    margin: 0 8px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h3{
+    color: #009FBD;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+img{
+    float: left;
+    margin-left: 20px;
+    width: 400px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.amsterdam img{
+    float: left;
+    margin-left: 20px;
+    width: 400px;
+    height: 300px;
+}
+
+.istanbul img{
+    float: left;
+    margin-left: 20px;
+    width: 400px;
+    height: 300px;
+}
+
+div i{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+i{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+iframe{
+    width: 420px;
+    height: 260px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #009FBD; 
+    font-size: 30px;
+}
+
+footer p{
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    padding: 36px;
+}
